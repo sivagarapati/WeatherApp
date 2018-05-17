@@ -1,12 +1,15 @@
 html{
 	font-family: "Avenir Next", Helevetica, sans-serif;
-	text-align: center;
+    text-align: center;
+    
 }
 
 body {
-	margin: 0 auto;
+    margin: 0 auto;
+    text-align: center;
 } 
 
-h1, h2 {
-	font-weight: 300;
+h1 {
+    font-weight: 300;
+    color: blue;
 }
